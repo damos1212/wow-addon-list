@@ -6,7 +6,6 @@ Damos1212’s list of 40 addons for leveling, gear, and UI in WoW Forever. The g
 
 - Use the search box to find an addon or feature.
 - Click a screenshot to enlarge it. Three entries use labeled illustrations.
-- Use **Embers** to pause or resume the header animation.
 
 ## About the site
 
